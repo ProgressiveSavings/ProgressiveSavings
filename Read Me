@@ -1,2 +1,0 @@
-# ProgressiveSavings
-Website for Store.
